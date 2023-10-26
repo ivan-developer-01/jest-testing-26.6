@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ivan-developer-01/jest-testing-26.6/issues"
   },
-  "homepage": "https://github.com/ivan-developer-01/jest-testing-26.6#readme"
+  "homepage": "https://github.com/ivan-developer-01/jest-testing-26.6#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
